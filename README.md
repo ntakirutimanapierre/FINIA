@@ -60,11 +60,12 @@ To accelerate digital financial inclusion:
 
 This project was made possible through the support and guidance of:
 
-- Prof. Edith Luhanga (CMU)
-- Prof. Ganesh Mani (CMU)
-- Prof. Patrick McSharry (CMU)
-- Prof. Chimwemwe Chipeta (Wits)
-- Mr. Yves Mfitumukiza Ndayisaba (CMU)
+- [Edith Luhanga (CMU)](https://www.africa.engineering.cmu.edu/about/contact/directory/bios/luhanga-edith.html)
+- [Ganesh Mani (CMU)](https://scholars.cmu.edu/11206-ganesh-mani)
+- [Patrick McSharry (CMU)](https://engineering.cmu.edu/directory/bios/mcsharry-patrick.html)
+- [Chimwemwe Chipeta (Wits)](https://www.wits.ac.za/people/academic-a-z-listing/c/chimwemwechipetawitsacza/)
+- [Yves Mfitumukiza Ndayisaba (CMU)](https://www.linkedin.com/in/yves-mfitumukiza-ndayisaba/)
+- [Pierre Ntakirutimana](https://www.linkedin.com/in/pierre-ntakirutimana-b784ba186/)
 
 Funding was provided by the [Afritec Network](https://measuring-digital-financ-opoy9ek.gamma.site/)
 
