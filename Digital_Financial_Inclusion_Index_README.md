@@ -22,9 +22,6 @@ This index was developed to:
   <img src="https://i.imgur.com/9A9YQ6l.png" alt="Purpose Illustration" style="width:100%; border-radius: 8px;" />
 </div>
 
-<p align="center">
-  $$\text{DFI Index} = \sqrt[3]{\text{Infrastructure} \times \text{Investment} \times \text{Literacy}}$$
-</p>
 
 </div>
 
@@ -65,9 +62,9 @@ This index was developed to:
 
 The **Digital Financial Inclusion Index (DFI Index)** is calculated as the **geometric mean** of the three normalized components:
 
-<div style="background: #f0f0f0; padding: 10px; border-radius: 6px; font-family: monospace; text-align: center; margin: 20px auto;">
-  DFI Index = (Infrastructure × Investment × Literacy)<sup>1/3</sup>
-</div>
+<p align="center">
+  $$\text{DFI Index} = \sqrt[3]{\text{Infrastructure} \times \text{Investment} \times \text{Literacy}}$$
+</p>
 
 > This approach ensures that low performance in any single component meaningfully affects the overall score.
 
