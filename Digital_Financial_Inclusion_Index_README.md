@@ -18,9 +18,6 @@ This index was developed to:
 
 </div>
 
-<div style="flex: 1;">
-  <img src="https://i.imgur.com/9A9YQ6l.png" alt="Purpose Illustration" style="width:100%; border-radius: 8px;" />
-</div>
 
 
 </div>
@@ -39,9 +36,7 @@ This index was developed to:
 
 </div>
 
-<div style="flex: 1;">
-  <img src="https://i.imgur.com/YQ3nFbV.png" alt="Components Visualization" style="width:100%; border-radius: 8px;" />
-</div>
+
 
 </div>
 
