@@ -64,6 +64,9 @@ The **Digital Financial Inclusion Index (DFI Index)** is calculated as the **geo
 > This approach ensures that low performance in any single component meaningfully affects the overall score.
 
 </div>
+<div style="flex: 1;">
+  <img src="https://github.com/ntakirutimanapierre/FINIA/blob/main/Index%20Images/literacy.png" alt="Methodology Diagram" style="width:100%; border-radius: 8px;" />
+</div>
 
 <div style="flex: 1;">
   <img src="https://github.com/ntakirutimanapierre/FINIA/blob/main/Index%20Images/gsmaindex.png" alt="Methodology Diagram" style="width:100%; border-radius: 8px;" />
