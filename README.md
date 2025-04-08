@@ -5,14 +5,14 @@ https://measuring-digital-financ-opoy9ek.gamma.site/
 
 # Digital Financial Inclusion Index for Africa
 
-This project introduces a novel index designed to measure digital financial inclusion across African nations. The index evaluates the performance of digital finance by focusing on key components such as mobile technology infrastructure, investment in fintech, and user accessibility.
+This is a subpraject of [FINIA](https://www.africa.engineering.cmu.edu/research/finia.html) project that introduces a novel index designed to measure digital financial inclusion across African nations. The index evaluates the performance of digital finance by focusing on key components such as mobile technology infrastructure, investment in fintech, and user accessibility.
 
 ## Purpose of the Index
 
 The primary objectives of developing this index are:
 
 - **Simplify Complex Information**: Condense multifaceted data into a single, comprehensible metric.
-- **Track Progress Over Time**: Monitor advancements in digital financial inclusion across different periods.
+- **Track Progress Over Time**: Monitor advancements in digital financial inclusion across different periods. 
 - **Enable Comparisons**: Facilitate cross-country analyses to identify leaders and laggards in digital finance adoption.
 
 ## Data Collection and Components
@@ -66,6 +66,7 @@ This project was made possible through the support and guidance of:
 - Prof. Chimwemwe Chipeta (Wits)
 - Mr. Yves Mfitumukiza Ndayisaba (CMU)
 
-Funding was provided by the Afritec Network.
+Funding was provided by the [Afritec Network](https://measuring-digital-financ-opoy9ek.gamma.site/)
+
 
 For more detailed information, please refer to the full project presentation available at the [project website](https://measuring-digital-financ-opoy9ek.gamma.site/). 
