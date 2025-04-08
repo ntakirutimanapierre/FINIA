@@ -84,9 +84,9 @@ The **Digital Financial Inclusion Index (DFI Index)** is calculated as the **geo
 
 - **Top Performers (2023):**
 
-- - Seychelles (57.14%)
-- - Mauritius (53.87%)
-- -South Africa (53.32%)
+ - Seychelles (57.14%)
+ - Mauritius (53.87%)
+ -South Africa (53.32%)
 
 - **Lower Performers:**  
   Mali (21.76%), Burkina Faso (21.92%)
