@@ -70,7 +70,7 @@ The **Digital Financial Inclusion Index (DFI Index)** is calculated as the **geo
 </div>
 
 <div style="flex: 1;">
-  <img src="https://github.com/ntakirutimanapierre/FINIA/blob/main/Index%20Images/gsmaindex.png" alt="Methodology Diagram" style="width:100%; border-radius: 8px;" />
+  <img src="https://github.com/ntakirutimanapierre/FINIA/blob/main/Index%20Images/combinationinvestment.png" alt="Methodology Diagram" style="width:100%; border-radius: 8px;" />
 </div>
 </div>
 
