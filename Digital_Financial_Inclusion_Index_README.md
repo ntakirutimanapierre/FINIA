@@ -19,6 +19,10 @@ This index was developed to:
   <img src="https://i.imgur.com/9A9YQ6l.png" alt="Purpose Illustration" style="width:100%; border-radius: 8px;" />
 </div>
 
+<p align="center">
+  $$\text{DFI Index} = \sqrt[3]{\text{Infrastructure} \times \text{Investment} \times \text{Literacy}}$$
+</p>
+
 </div>
 
 ---
