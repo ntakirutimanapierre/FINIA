@@ -1,5 +1,5 @@
 
-# Digital Financial Inclusion Index for Africa
+# Digital Financial Inclusion: Building a Fintech Index for Africa
 Digital Financial Inclusion Index for Africa
 This is a subpraject of FINIA project that introduces a novel index designed to measure digital financial inclusion across African nations. The index evaluates the performance of digital finance by focusing on key components such as mobile technology infrastructure, investment in fintech, and user accessibility.
 
