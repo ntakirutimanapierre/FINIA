@@ -87,13 +87,14 @@ The **Digital Financial Inclusion Index (DFI Index)** is calculated as the **geo
 
 - **Top Performers (2023):**
 
-   Seychelles (57.14%)
-   Mauritius (53.87%)
-South Africa (53.32%)
+   Seychelles (84%)
+   South Africa (79%)
+   Mauritius & Egypt (76%)
 
 - **Lower Performers:**  
-  Mali (21.76%)
-  Burkina Faso (21.92%)
+  Mali (36%)
+  Somalia (39%)
+  Democratic Republic of Congo (43%)
 
 - Island nations and smaller populations adopt fintech more rapidly.  
 - Countries with limited infrastructure and tight regulations lag behind.
@@ -101,7 +102,7 @@ South Africa (53.32%)
 </div>
 
 <div style="flex: 1;">
-  <img src="https://i.imgur.com/0HVl0oY.png" alt="Digital Inclusion Map" style="width:100%; border-radius: 8px;" />
+  <img src="https://github.com/ntakirutimanapierre/FINIA/blob/main/Index%20Images/maps.png" alt="Digital Inclusion Map" style="width:100%; border-radius: 8px;" />
 </div>
 
 </div>
